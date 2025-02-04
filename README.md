@@ -1,3 +1,6 @@
+# Super secret client ID:
+b91cc0cf-dd39-4469-b8e7-c11e8e2ee5da
+
 # Contoso Traders
 
 ![Logo](./docs/images/logo-1280x640.png)
